@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt                      #Plotting Library
 from testCases_v4a import *
 from dnn_utils_v2 import sigmoid, sigmoid_backward   #Activation Function
 from dnn_utils_v2 import relu, relu_backward         #Activation Function
-from Feyla_Brain_Architecture import *
+
 print ("[+] Support Libraries Import: Successful")
 
 print("\n[+] Importing Neural Architecture: Pending")
